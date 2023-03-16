@@ -1,0 +1,23 @@
+body{
+     background-image: linear-gradient(to right top, #19d863, #00dd79, #00e38e, #00e7a2, #00ecb4, #37ebab, #4feba3, #61ea9b, #85e277, #a5d855, #c3cb36, #dfbc1c);
+}
+
+.link{
+     border: 2px ridge green;
+     font-family: cursive;
+     font-size: 25px;
+     border-radius: 50px;
+     background-color: rgb(34, 217, 223);
+     width: 450px;
+}
+
+hr{
+   width: 400px;  
+   color: black;
+}
+
+h1{
+     box-shadow: 20px 20px 50px 15px grey;
+     width: 350px;
+     border-radius: 50%;
+}
